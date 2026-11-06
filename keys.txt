@@ -1,0 +1,9 @@
+# FORMAT (required):
+# KEY|HWID
+# Example:
+# OPTIC-USER1-AAAA|12345678-ABCD-...
+#
+# Keys WITHOUT |HWID are rejected by the loader.
+# Only the repo owner should edit this file.
+
+OPTIC-DEMO-KEY-001|REPLACE_WITH_REAL_HWID
